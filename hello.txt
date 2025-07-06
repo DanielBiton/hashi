@@ -1,3 +1,1 @@
-Hello Git
-This is my second change.
-This is the experiment brach
+Hello from conflict bracng
